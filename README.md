@@ -3,6 +3,13 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![GetX](https://img.shields.io/badge/State_Management-GetX-purple?style=for-the-badge)](https://pub.dev/packages/get)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+> [!IMPORTANT]
+> **⚠️ المشروع قيد التطوير النشط | Project Under Active Development**
+> 
+> **بالعربية:** يرجى العلم أن هذه المنظومة والمستودعات البرمجية المرتبطة بها لا تزال في مرحلة التطوير والاختبار النشط، ويتم تحديث الميزات ورفع الواجهات بشكل مستمر لتجهيزها للإطلاق الكامل.
+> 
+> **In English:** Please note that this ecosystem and its related repositories are currently under active development and testing. Features, fixes, and UI screens are continuously being updated as we push toward the stable production release.
+
 
 تطبيق الهاتف المحمول المخصص **للمتاجر والمناديب**، ويمثل الشق الإداري واللوجستي لمنظومة متجر غزة الإلكتروني. يتيح لأصحاب المتاجر إدارة منتجاتهم ومبيعاتهم وتتبع إحصائياتهم، كما يُمكّن مناديب التوصيل من استلام الشحنات وتوصيلها بناءً على توجيه ذكي مجمع حسب المناطق الجغرافية بقطاع غزة.
 
