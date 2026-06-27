@@ -1,0 +1,37 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "stor-shooping",
+          "appId": "1:211144366461:android:e0d40b547f84170aee5414",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "stor-shooping",
+          "configurations": {
+            "android": "1:211144366461:android:e0d40b547f84170aee5414",
+            "ios": "1:211144366461:ios:53c36ef3e3f5d2ecee5414",
+            "web": "1:211144366461:web:7ef04122e274445fee5414"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}

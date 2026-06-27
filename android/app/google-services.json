@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "211144366461",
+    "project_id": "stor-shooping",
+    "storage_bucket": "stor-shooping.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211144366461:android:6992f619a97773abee5414",
+        "android_client_info": {
+          "package_name": "com.example.admin_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211144366461-4aupqcvrat1k8pc028f7i649iuollokr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa9aaDq7QbTNQC-OmRdW5x4OZ8UQxxGv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211144366461-4aupqcvrat1k8pc028f7i649iuollokr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211144366461-0it9t63h3vm1s0h95vm2i5puop4er39p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.storsAdminPanel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211144366461:android:004becfe0f4d0178ee5414",
+        "android_client_info": {
+          "package_name": "com.example.admin_store_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211144366461-4aupqcvrat1k8pc028f7i649iuollokr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa9aaDq7QbTNQC-OmRdW5x4OZ8UQxxGv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211144366461-4aupqcvrat1k8pc028f7i649iuollokr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211144366461-0it9t63h3vm1s0h95vm2i5puop4er39p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.storsAdminPanel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211144366461:android:e0d40b547f84170aee5414",
+        "android_client_info": {
+          "package_name": "com.example.stors_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211144366461-c24i9otc6kcp3jre98uavos07p1ou3mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stors_admin_panel",
+            "certificate_hash": "b669a877ad6dde6c4ee59f8286f7d760f8ef310a"
+          }
+        },
+        {
+          "client_id": "211144366461-4aupqcvrat1k8pc028f7i649iuollokr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa9aaDq7QbTNQC-OmRdW5x4OZ8UQxxGv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211144366461-4aupqcvrat1k8pc028f7i649iuollokr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211144366461-0it9t63h3vm1s0h95vm2i5puop4er39p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.storsAdminPanel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211144366461:android:b3cef01058104b66ee5414",
+        "android_client_info": {
+          "package_name": "com.example.untitled2_ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211144366461-4aupqcvrat1k8pc028f7i649iuollokr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa9aaDq7QbTNQC-OmRdW5x4OZ8UQxxGv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211144366461-4aupqcvrat1k8pc028f7i649iuollokr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211144366461-0it9t63h3vm1s0h95vm2i5puop4er39p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.storsAdminPanel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
